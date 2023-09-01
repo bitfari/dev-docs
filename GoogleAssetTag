@@ -1,0 +1,17 @@
+<!-- Bitfari Asset Tag (btag.js)-->
+<!-- Registered Screen Testnet STX Address () -->
+<!-- Payment Mainnet STX Address () -->
+<!-- App Domain () -->
+<!-- App Name () -->
+<!-- Location Tags (USA, Canada, Europe, Australia) -->
+<!-- Positive Tags (games, fun, casino, insurance, cars, play, challenge) -->
+<!-- Negative Tags (religion, politics, crypto, children, government) -->
+ 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KKNRX5TZTX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KKNRX5TZTX');
+</script>
